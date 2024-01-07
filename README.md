@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&random=false&width=1100&height=70&lines=React+Music+Player+%2B+Vite,SCSS+TS+and+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&random=false&width=1100&height=70&lines=React+Music+Player+%2B+Vite,+SCSS,+TS+and+React)](https://git.io/typing-svg)
 
 <div align="center">
     <p>Hello, this is my music player, which includes:</p>
@@ -13,6 +13,9 @@
     </a>
     <a href='https://vitejs.dev/' title="Vite">
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" height="42" width="42" alt="git logo"  />
+    </a>
+    <a href='https://www.w3schools.com/html/html_intro.asp' title="HTML5" > 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" width="42" alt="html5 logo"  />
     </a>
 </div>
 
